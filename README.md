@@ -1,1 +1,1 @@
-DesktopApp
+DesktopApps
